@@ -29,10 +29,10 @@ Nome | Modelo
 ------------ | -------------
 Readme | [Documentação básica e principal do seu projeto](https://gist.github.com/hi-hi-ray/4b54aa4996604cc76c05304c6fa7cae1)
 Readme com Docker | [Documentação básica e principal do seu projeto com docker](https://gist.github.com/hi-hi-ray/6ca085c96c6bd5e96c6b1609218d24ce)
-Contributing | [Como uma pessoa pode contribuir com seu repositório]()
+Contributing | [Como uma pessoa pode contribuir com seu repositório](https://gist.github.com/hi-hi-ray/a868081e2a63ee47fafa015353d05ae3)
 License | [Copyrights do Seu Repositório](https://gist.github.com/hi-hi-ray/b726af156bdfb463dd10025ae76ea4c1)
 Changelog | [Lista de Mudanças, sejam features ou fixes da sua aplicação](http://keepachangelog.com/pt-BR/0.3.0/)
 
-###### Sabendo se seu repósitorio *
+###### Sabendo se seu repósitorio * pode ser open source
 
 [Requisitos para projetos open source](https://gist.github.com/hi-hi-ray/b5db2e2dff3d14175403078585e609dd)
